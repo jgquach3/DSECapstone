@@ -1,0 +1,46 @@
+Topics found via LDA:
+
+Topic #0:
+trump president white house said trumps democrats donald government senate spending republicans congress washington budget
+
+Topic #1:
+people said homeless city years county housing san says year community help children 000 home
+
+Topic #2:
+said state new republican tax percent states people year president years political democratic campaign american
+
+Topic #3:
+la que el en los van las para una se del cbd por work mcfarland
+
+Topic #4:
+marijuana medical said treatment cannabis patients health addiction california state drug pain use new rehab
+
+Topic #5:
+drug said people opioid drugs use pain addiction health opioids heroin patients overdose deaths study
+
+Topic #6:
+people facebook time new like social company media said users app game make games world
+
+Topic #7:
+said sexual women sex students mr weinstein kids new told media school time parents social
+
+Topic #8:
+said police court drug county attorney case years according told state office judge prison department
+
+Topic #9:
+pm los angeles st photo chico ave center 10 doughnut church shop group free scng
+
+Topic #10:
+health opioid drug said people states care new federal law public crisis state medicaid president
+
+Topic #11:
+like think people know dont im really thats going time youre want way said things
+
+Topic #12:
+said tobacco juul products use health people nicotine smoking cigarettes fda vaping ecigarettes like new
+
+Topic #13:
+click star instagram new dress actress showed getty ap black look photos x17onlinecom red pictures
+
+Topic #14:
+like new life years time story music family said love book says people way world

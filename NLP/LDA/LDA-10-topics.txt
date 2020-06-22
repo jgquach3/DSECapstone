@@ -1,0 +1,31 @@
+Topics found via LDA:
+
+Topic #0:
+food like coffee restaurant new chicken sugar best make good eat day chef water bar
+
+Topic #1:
+said photo house spending budget border 2018 government orange scng billion trump democrats immigration senate
+
+Topic #2:
+people like time said use think dont new facebook social thats make way know research
+
+Topic #3:
+like life story time times world new book people way said los angeles years family
+
+Topic #4:
+new star click instagram actress dress black look getty showed ap photos like left stars
+
+Topic #5:
+trump said president people new state white house health states percent government trumps tax years
+
+Topic #6:
+like said know im mr think people time dont la going thats really told got
+
+Topic #7:
+pm game games new company google apple app free players video million year st chico
+
+Topic #8:
+said people treatment years health addiction homeless county says care help like time family children
+
+Topic #9:
+said drug opioid drugs state marijuana police medical opioids new according federal people law health

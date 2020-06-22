@@ -1,0 +1,22 @@
+[
+    {
+        "label-name" : "Drug use related health harms",
+        "label-desc" : "Drug use related health harms. Overdose deaths and non-fatal overdoses\nHIV, HCV, TB, endocarditis and other infectious diseases\nMental health harms associated with drug use\nEmergency room"
+    },
+    {
+        "label-name" : "Drug use treatment",
+        "label-desc" : "(e.g. opiate agonist therapy) Opioid agonist therapy (OAT) is an effective treatment\nfor addiction to opioid drugs such as heroin, oxycodone,\nhydromorphone (Dilaudid), fentanyl and Percocet. The\ntherapy involves taking the opioid agonists methadone\n(Methadose) or buprenorphine (Suboxone). These\nmedications work to prevent withdrawal and reduce\ncravings for opioid drugs. People who are addicted to\nopioid drugs can take OAT to help stabilize their lives\nand to reduce the harms related to their drug use."
+    },
+    {
+        "label-name" : "Health system policies",
+        "label-desc" : "Health system policies related to drug use disorders (e.g. mandating prescription drug monitoring programs or naloxone laws Samaritan laws)"
+    }, 
+    {
+        "label-name" : "Drug-related law enforcement",
+        "label-desc" : "Drug seizures/ police crackdowns/drug busting\nProperty/violent crime associated with drug use\nDrug-related arrests, incarcerations\nDrug cartels/drug markets (This could eventually be its own category but trying to keep it as concise as possible at this stage)\nDrug laws/policies, including FDA approvals"
+    },
+    {
+        "label-name" : "Drug use trends",
+        "label-desc" : "Self-medication\nPain management\nRecreational use/club drugs\nDrug use disorders/dependence\nDrug prescription"
+    }
+]

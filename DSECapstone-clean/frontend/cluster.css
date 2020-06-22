@@ -1,0 +1,69 @@
+.marker-cluster-small {
+	background-color: rgba(181, 226, 140, 0.6);
+	}
+.marker-cluster-small div {
+	background-color: rgba(110, 204, 57, 0.6);
+	}
+
+.marker-cluster-medium {
+	background-color: rgba(241, 211, 87, 0.6);
+	}
+.marker-cluster-medium div {
+	background-color: rgba(240, 194, 12, 0.6);
+	}
+
+.marker-cluster-large {
+	background-color: rgba(253, 156, 115, 0.6);
+	}
+.marker-cluster-large div {
+	background-color: rgba(241, 128, 23, 0.6);
+    }
+    
+.marker-cluster-blue {
+	background-color: rgba(255, 255, 255, 0.6);
+	}
+.marker-cluster-blue div {
+	background-color: yellow;
+	}
+
+.marker-cluster {
+	background-clip: padding-box;
+	border-radius: 20px;
+
+	}
+.marker-cluster div {
+	width: 30px;
+	height: 30px;
+	margin-left: 5px;
+	margin-top: 5px;
+	
+	text-align: center;
+	border-radius: 15px;
+	font: 26px "Helvetica Neue", Arial, Helvetica, sans-serif;
+	}
+.marker-cluster span {
+	line-height: 30px;
+	}
+.marker-cluster-more {
+	background-clip: padding-box;
+	border-radius: 10px;
+	}
+.marker-cluster-more div {
+	width: 60px;
+	height: 60px;
+	margin-left: 5px;
+	margin-top: 5px;
+	padding: 5px;
+	text-align: center;
+	border-radius: 10px;
+	font: 16px "Helvetica Neue", Arial, Helvetica, sans-serif;
+	}
+.marker-cluster-more span {
+	line-height: 20px;
+	}
+#zind {
+	z-index: 2147483647;
+}
+#topic-select {
+	min-width: 200px;
+}

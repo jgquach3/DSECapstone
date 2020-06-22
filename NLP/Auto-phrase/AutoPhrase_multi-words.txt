@@ -1,0 +1,1708 @@
+0.9434369466	west virginia
+0.9419272700	getty images
+0.9417890607	north korean
+0.9399622161	chicago tribune
+0.9360004384	sonoma county
+0.9350086865	alcoholics anonymous
+0.9344416383	star wars
+0.9325620744	san jose
+0.9323494505	hurricane maria
+0.9286436213	north korea
+0.9285281463	episcopal church
+0.9279504593	terry gross
+0.9273789144	mark zuckerberg
+0.9268900722	santa ana river
+0.9261547055	anthony bourdain
+0.9255698124	prime minister
+0.9249575681	cuyahoga county
+0.9249159061	east coast
+0.9233699293	foot locker
+0.9229739182	air force
+0.9228403863	homeland security
+0.9222423612	white house
+0.9220014474	roy moore
+0.9210388673	jeff flake
+0.9205173531	huntington beach
+0.9205055151	johnson johnson
+0.9202611392	west hollywood
+0.9200854276	southern california
+0.9196253659	jeff sessions
+0.9191944262	ben affleck
+0.9189931395	united states
+0.9184087917	jennifer garner
+0.9182332079	donald trump
+0.9181783189	supreme court
+0.9173738448	hillary clinton
+0.9173165808	lawrence wright
+0.9170086334	city council
+0.9165172602	fox news
+0.9164757987	san antonio
+0.9163560973	stanford university
+0.9150026436	jeff bezos
+0.9147170150	washington dc
+0.9144472808	bay area
+0.9133922405	usa today
+0.9130185532	harvey weinstein
+0.9128203610	newport beach
+0.9127874053	domestic violence
+0.9118899152	veterans affairs
+0.9117700996	surgeon general
+0.9116284943	justice department
+0.9114607172	attorney general
+0.9111527049	wall street
+0.9108168008	long island
+0.9107984938	united kingdom
+0.9101338262	north carolina
+0.9100791860	sexual assault
+0.9097697256	minority leader
+0.9061054536	uc irvine
+0.9053498931	task force
+0.9050396841	south carolina
+0.9045890442	slo county
+0.9041265718	cbs news
+0.9034020000	grand jury
+0.9030440421	feather river
+0.9024710547	home depot
+0.9021122135	santa monica
+0.9018423705	santa rosa
+0.9015534014	peter tork
+0.9011507119	orange county
+0.9006054648	san francisco
+0.9005394943	cleveland ohio
+0.9000030917	mental health
+0.8981568348	civil rights
+0.8979669960	dianne feinstein
+0.8978254807	eric williams
+0.8978249129	hurricane irma
+0.8977135060	james comey
+0.8974042033	district attorney
+0.8972059062	puerto rico
+0.8966315832	ed buck
+0.8965938102	johns hopkins
+0.8958199667	alec baldwin
+0.8956269905	los angeles
+0.8951922963	vice president
+0.8948390362	johns hopkins university
+0.8928426882	performing arts
+0.8928154683	san juan
+0.8926090314	michael flynn
+0.8915609033	business insider
+0.8915559921	lindsey vonn
+0.8913205624	chris christie
+0.8909905847	middle east
+0.8907419175	bernie sanders
+0.8906086831	costa mesa
+0.8896228954	melania trump
+0.8893038150	disneyland resort
+0.8884428074	human trafficking
+0.8880790769	elementary school
+0.8874548242	substance abuse
+0.8873144643	los angeles times
+0.8872774158	houston astros
+0.8869958609	silicon valley
+0.8865805452	san diego
+0.8855495245	contributing photographer
+0.8840863449	santa clara
+0.8837933105	bella thorne
+0.8836712285	sponsor catalyst
+0.8817408441	affordable care act
+0.8812307500	tax cuts
+0.8811823397	san diego county
+0.8811213870	davy jones
+0.8807992917	charlotte mckinney
+0.8805991076	parts unknown
+0.8804338899	xi jinping
+0.8802877511	insys therapeutics
+0.8802660991	mayo clinic
+0.8802246283	long beach
+0.8800816913	tristan harris
+0.8795165440	big bang theory
+0.8794708049	credits getty
+0.8794226288	downtown disney
+0.8787617833	warped tour
+0.8774747897	nancy pelosi
+0.8770452632	linkin park
+0.8761927626	social security
+0.8757597377	carlos jr
+0.8748419021	childrens hospital
+0.8743845893	halloween horror nights
+0.8737737232	harm reduction
+0.8734536888	business insiders
+0.8730719132	san manuel
+0.8730619772	congressional district
+0.8730208316	world war ii
+0.8725565789	high school
+0.8722898170	fried chicken
+0.8721415466	criminal justice
+0.8717256043	san clemente
+0.8711764801	sheriffs department
+0.8710148538	santa ana
+0.8708963651	marjory stoneman douglas
+0.8708902847	department justice
+0.8704760041	energy commerce
+0.8700607397	great pyramid
+0.8696479461	sexual misconduct
+0.8690682941	democratic party
+0.8675831052	jerry brown
+0.8672736467	nbc news
+0.8668999332	fresh air
+0.8666876082	rohnert park
+0.8660731998	barack obamas
+0.8655250271	las vegas
+0.8654276312	atlantic city
+0.8644341961	donald trumps
+0.8641362190	dark web
+0.8639046288	drug enforcement administration
+0.8630364211	dr gottlieb
+0.8612829522	san diegos
+0.8603923704	mitch mcconnell
+0.8600503804	barack obama
+0.8598921714	board supervisors
+0.8596631967	sexual harassment
+0.8594886763	red carpet
+0.8591762062	purdue pharma
+0.8586117497	gary coronado
+0.8585963893	native american
+0.8584358473	san franciscos
+0.8581152179	civil war
+0.8562945495	sexual violence
+0.8559977430	president barack obama
+0.8555490577	video games
+0.8544947374	northern california
+0.8541570314	mr kushner
+0.8540488662	tampa bay
+0.8533729248	lincoln heights
+0.8531398048	juul labs
+0.8525644549	breast cancer
+0.8523261450	brandon nelson
+0.8518540508	paul ryan
+0.8510721190	photo mindy schauer
+0.8502278340	artificial intelligence
+0.8501373438	ap photo
+0.8500223454	hide caption
+0.8499649621	human rights
+0.8496429179	weeklynarcotics anonymous
+0.8496186690	speaker paul ryan
+0.8493263922	suicide prevention
+0.8483347563	washington post
+0.8476966584	death penalty
+0.8470955190	special registration
+0.8468892243	triple crown
+0.8465091813	chronic pain
+0.8463649130	mr kushners
+0.8447856409	flossie lewis
+0.8447141334	black lives matter
+0.8444828104	charter schools
+0.8443735935	kim williams
+0.8435889504	file photo
+0.8435470240	real estate
+0.8432309034	house representatives
+0.8427260918	food drug administration
+0.8426123964	ice cream
+0.8417499530	donna jean dempsey
+0.8409173757	dr phil
+0.8403089762	medical marijuana
+0.8394181449	micky dolenz
+0.8376893646	vans warped tour
+0.8361492683	national guard
+0.8359174292	president trump
+0.8358666356	insider australia facebook twitter linkedin instagram
+0.8350886770	gov jerry brown
+0.8347090623	southern california news
+0.8339761222	sovereign health
+0.8335108193	gov chris christie
+0.8334411218	national anthem
+0.8333751091	cnn health facebook
+0.8331097681	higher education
+0.8329233485	centers disease control prevention
+0.8325601082	kanye west
+0.8310270388	male female
+0.8307819552	credit cards
+0.8307342094	tax cut
+0.8301551213	public health
+0.8289067559	birth control
+0.8288175897	universal studios
+0.8279591988	president donald trump
+0.8270785306	attorney general jeff sessions
+0.8270736060	clinical trials
+0.8269815243	pain management
+0.8267966976	islamic state
+0.8253784220	national institute drug abuse
+0.8250533553	mindy schauer
+0.8240447213	minimum wage
+0.8237970529	lower wacker
+0.8232524020	behavioral health
+0.8217847900	controlled substance
+0.8217023539	medicationassisted treatment
+0.8211715944	school district
+0.8205543839	mental illness
+0.8194699941	government shutdown
+0.8194314102	foster care
+0.8187139243	bachelors degree
+0.8182417978	main st
+0.8180419017	downtown los angeles
+0.8179950434	senate democrats
+0.8176934342	al franken
+0.8172508750	controlled substances
+0.8160159083	health care
+0.8158280886	drivers license
+0.8155228534	affordable housing
+0.8154627578	disaster relief
+0.8153897757	general manager
+0.8143413007	ken kwok los angeles times
+0.8140218314	san juan capistrano
+0.8136224431	background checks
+0.8126300837	los angeles county
+0.8117716500	law enforcement
+0.8111102731	restraining order
+0.8097056962	horror nights
+0.8088971299	special counsel
+0.8087296922	fun run
+0.8083816056	pain relief
+0.8081300979	medical cannabis
+0.8079956777	department health human services
+0.8075347288	chief executive
+0.8069118430	urban areas
+0.8058518456	civil liberties
+0.8055709987	climate change
+0.8053067671	universal studios hollywood
+0.8052066116	mr trumps
+0.8051005498	facebook google
+0.8050068027	kevin sullivan
+0.8045548226	attorneys office
+0.8040098707	plead guilty
+0.8039083805	alfred ut
+0.8038338917	state union
+0.8032712492	mr trump
+0.8031706097	universal studios hollywood universal
+0.8023621687	health insurance
+0.8020270156	deferred action childhood arrivals
+0.8019759665	washington reuters
+0.8017649079	allen nelson
+0.8016882976	sponsor catalyst domestic violence services
+0.8015046239	bang theory
+0.8011226322	withdrawal symptoms
+0.8006609143	national institutes health
+0.8004686566	president obama
+0.7999475519	synthetic opioids
+0.7985116209	social media
+0.7979462868	app store rating
+0.7975729334	president donald trumps
+0.7971591403	police department
+0.7955855017	united nations
+0.7942484361	food stamps
+0.7939117303	paul bersebach orange county register scng
+0.7937448507	richard lewis
+0.7936997539	republicans democrats
+0.7936497541	obama administration
+0.7932842281	drug czar
+0.7932071683	tax reform
+0.7921489456	north america
+0.7919241354	pine nuts
+0.7915253094	democrats republicans
+0.7913859656	district attorneys office
+0.7910070781	bipolar disorder
+0.7905874315	national security
+0.7905807531	committed suicide
+0.7898134294	breaking news
+0.7897948065	oxycodone hydrocodone
+0.7882352867	trump administration
+0.7874682290	gary coronado los angeles times
+0.7870705090	pixar pier
+0.7866662446	facial recognition
+0.7860710358	executive director
+0.7851749553	photo courtesy
+0.7847538340	supply chain
+0.7846135156	orange county register scng
+0.7840566298	rural areas
+0.7839166948	george w bush
+0.7835799313	disney california adventure
+0.7835700281	universal studios hollywoods halloween horror nights
+0.7833607825	small towns
+0.7833168359	human beings
+0.7827048894	safe injection
+0.7825210662	studios hollywoods halloween horror nights
+0.7825015410	credit card
+0.7816824673	safety net
+0.7808871767	mac cheese
+0.7807487775	sober living
+0.7806370449	victims domestic violence
+0.7797350649	billions dollars
+0.7790772411	pharmaceutical companies
+0.7789432499	press conference
+0.7786448812	judiciary committee
+0.7785502495	social networks
+0.7778618562	social justice
+0.7770828442	mass shooting
+0.7767186118	video game
+0.7763566360	photo paul bersebach
+0.7763548850	middle school
+0.7754334037	young adults
+0.7754167096	universal studios hollywood universal city
+0.7750467799	remote prescribing
+0.7739205524	police chief
+0.7737728705	intellectual property
+0.7731691661	travel ban
+0.7713970728	treatment centers
+0.7707547876	economic growth
+0.7692315184	vape pens
+0.7689256105	fake news
+0.7685278283	free foto
+0.7683815386	tens thousands
+0.7664579613	photo david sprague universal studios hollywood
+0.7645548120	heart attack
+0.7643167098	family resource center
+0.7636483188	district attorneys
+0.7631705853	la county
+0.7627011092	insurance companies
+0.7621376620	na wai ola
+0.7620452513	centers disease control
+0.7616163673	health human services
+0.7606836374	av club
+0.7605521498	public safety
+0.7580672448	heart disease
+0.7572531362	child welfare
+0.7562501189	21st century
+0.7556904289	border security
+0.7556473289	victims survivors
+0.7547738134	overdose deaths
+0.7536070058	anxiety depression
+0.7534338958	cup coffee
+0.7531755357	synthetic cannabinoids
+0.7528668794	real housewives
+0.7522744225	opioid epidemic
+0.7519598866	image caption
+0.7518942233	la times
+0.7517211548	social worker
+0.7516173742	emergency room
+0.7508607774	mental illnesses
+0.7503707582	santa ana sober livinghome investigation prosecution
+0.7491944695	le carre
+0.7487726146	depressive symptoms
+0.7483544130	bersebach orange county register scng
+0.7482763700	early 2000s
+0.7481548206	millions dollars
+0.7481518920	adult smokers
+0.7481218575	video jason h neubert
+0.7479300779	law firm
+0.7476611546	board member
+0.7473925528	court records
+0.7472718369	tech companies
+0.7472037250	synthetic opioid
+0.7462504942	recovery center
+0.7455710388	police departments
+0.7453983436	flavored tobacco
+0.7453311477	declined comment
+0.7449127550	defense attorney
+0.7447510422	vast majority
+0.7442856612	medicaid expansion
+0.7439169466	nfl players
+0.7432952989	follow twitter
+0.7432055431	drug trafficking
+0.7430927431	tv series
+0.7427280414	chief staff
+0.7422227783	junior high
+0.7417477788	city hall
+0.7406569800	sheriffs deputies
+0.7406313983	depression anxiety
+0.7404120338	opioid crisis
+0.7399144258	emergency declaration
+0.7389762349	delivered inbox
+0.7378375061	overdose antidote
+0.7376953655	light phone
+0.7376874959	remove confederate monuments
+0.7375737825	pharmaceutical industry
+0.7371206922	nonprofit organization
+0.7371026799	mental health services
+0.7367583607	donna jean
+0.7358713675	daily news
+0.7349664957	date night
+0.7349266963	ballast point brewing co downtown disney
+0.7348506471	crisostomo los angeles daily news scng
+0.7344743177	rotten reviews
+0.7342576991	raise awareness
+0.7342365656	ballast point
+0.7341055012	gave birth
+0.7337266936	parking lot
+0.7329747570	county sheriffs
+0.7325569779	hollywoodlifecom instagram
+0.7324980471	facebook instagram
+0.7319586314	public schools
+0.7318775671	tobacco products
+0.7318638989	members congress
+0.7315794201	trumps presidency
+0.7312748163	medical device
+0.7310823117	supervised injection
+0.7308237109	state union address
+0.7307141426	president trumps
+0.7305724525	star sightings
+0.7303085256	world series
+0.7301901028	associate professor
+0.7296842585	private equity
+0.7296563264	blog post
+0.7295542932	tech giants
+0.7294587571	ballot initiative
+0.7293564624	social network
+0.7291392414	attorney generals office
+0.7287552649	federal government
+0.7286638946	sexual abuse
+0.7278488880	middle class
+0.7274092964	illegal immigrants
+0.7267687197	years ago
+0.7267589596	category musical comedy
+0.7260894959	prescription painkillers
+0.7249350379	warning signs
+0.7247083716	orange county register
+0.7228235427	market share
+0.7219699452	los angeles daily news scng
+0.7218564301	university california
+0.7212445895	student loan
+0.7212163425	attorney generals
+0.7211821597	app store
+0.7196960226	presidential election
+0.7192536217	stock market
+0.7192123262	disease control prevention
+0.7190155639	photo kevin sullivan
+0.7188953770	life expectancy
+0.7180232305	social workers
+0.7171164482	global headquarters costa mesa thursday mar
+0.7168940594	social services
+0.7164090640	photo ed crisostomo
+0.7150768211	labor force
+0.7137651265	secretary state
+0.7124713348	x17onlinecom x17
+0.7119063159	worlds biggest
+0.7117258028	na wai
+0.7106761523	prescription pills
+0.7087350278	category drama
+0.7085208599	hundreds thousands
+0.7085133295	mandatory minimum
+0.7069772239	click pics
+0.7064536454	australia facebook twitter linkedin instagram
+0.7057910260	existing stores
+0.7052308760	confederate statues
+0.7049554179	college degree
+0.7049094253	war drugs
+0.7044757465	visit x17onlinecom x17
+0.7037643105	facebook page
+0.7034655201	thousands dollars
+0.7023064539	human services
+0.7020430874	photo michael fernandez contributing photographer
+0.7020388954	public health emergency
+0.7019603180	drug dealers
+0.6994919855	medical board
+0.6984352906	highly addictive
+0.6983211463	bad actors
+0.6974442379	majority leader
+0.6973694481	vans warped tour kickoff party vans
+0.6972260275	turning point
+0.6967190255	pay attention
+0.6961589192	county register scng
+0.6958850531	tax overhaul
+0.6956335083	prescription drug
+0.6925948998	legal status
+0.6925893014	wide range
+0.6925354074	pm cbs
+0.6923713396	worlds largest
+0.6919874051	victim mentality
+0.6899840544	kelly a swift contributing photographer
+0.6894194670	attention economy
+0.6883932815	social media platforms
+0.6878643306	medical records
+0.6874517639	developed countries
+0.6866202046	elected officials
+0.6865577629	prescription opioids
+0.6864954775	pm abc
+0.6864516020	published journal
+0.6862194253	president xi
+0.6859205339	sober livinghome investigation prosecution task force
+0.6856546970	tax law
+0.6850342325	police officer
+0.6847540799	homeless population
+0.6843958607	click pictures
+0.6836312259	gun control
+0.6835143240	study published
+0.6833015878	studios hollywoods halloween horror
+0.6831655592	visit hollywoodlifecom
+0.6828941832	pm fox
+0.6827713704	billion dollars
+0.6818978160	national emergency
+0.6807088550	opioid painkiller
+0.6804810355	average annual
+0.6802472123	suicide rate
+0.6800997472	friday oct
+0.6795186207	candidate roy moore
+0.6789794402	president barack
+0.6786465110	downtown disney anaheim ca
+0.6781253068	opioid prescriptions
+0.6767183571	police officers
+0.6760994276	public policy
+0.6758525092	living room
+0.6755007874	customer service
+0.6753490683	expand access
+0.6751279173	north american
+0.6751053004	blood pressure
+0.6747553404	treatment providers
+0.6739418592	living streets
+0.6731210130	support group
+0.6726972874	paying attention
+0.6718179047	recreational marijuana
+0.6718053882	marijuana legalization
+0.6701062632	opioid overdose
+0.6695522477	court documents
+0.6693084767	romantic partner
+0.6689884175	request comment
+0.6689146245	wai ola
+0.6674319143	monday night
+0.6672541633	cal state
+0.6671318652	common sense
+0.6668166238	months ago
+0.6667699499	department health human
+0.6660935789	oxycodone pills
+0.6637803434	opioidshow opioid
+0.6631856179	universal city
+0.6624100194	hotel room
+0.6621583711	injection sites
+0.6606524858	football team
+0.6595278320	decades ago
+0.6580759647	senate race
+0.6566454369	product selection
+0.6564638885	drug overdose
+0.6540569420	remove confederate
+0.6538696478	reward systems
+0.6538449553	news conference
+0.6530672048	department health
+0.6521715224	santa monica high
+0.6518261076	respond request
+0.6517935923	diego county
+0.6509990472	local governments
+0.6506971377	opioid painkillers
+0.6501251695	gov jerry
+0.6499705363	running water
+0.6499433327	trump administrations
+0.6496636176	rural communities
+0.6493498330	noon130 pm
+0.6488927224	earlier month
+0.6483956276	sober living homes
+0.6467485810	5k run
+0.6466985944	primary care
+0.6466984974	drug abuse
+0.6461254533	video link copy embed code
+0.6456830683	weeks ago
+0.6452504403	pleaded guilty
+0.6450738359	wrote av club
+0.6430741798	reality star
+0.6430345680	distraction task
+0.6421944297	orbitofrontal cortex
+0.6418257070	affordable care
+0.6412970578	sober livinghome investigation prosecution
+0.6406748295	prescription drugs
+0.6397085705	tax plan
+0.6386850329	health department
+0.6381228603	heroin addict
+0.6380914751	county district attorney
+0.6372947403	opioid abuse
+0.6369319429	continue reading main
+0.6361453996	pm free
+0.6349411657	higher rates
+0.6345487433	ballast point brewing co
+0.6340965095	state department
+0.6340412447	photo kelly a swift contributing photographer
+0.6334980622	sur le
+0.6327286387	long ago
+0.6326483171	immediately respond
+0.6325567087	tomatometer rating season
+0.6320721971	growth rate
+0.6316268451	kanye west kanyewest april
+0.6304108484	share close cities around the country
+0.6296180836	fueled opioid crisis
+0.6295633451	patient care
+0.6294409120	image toggle caption
+0.6293675701	sign up
+0.6287937251	california department
+0.6275135931	told business insider
+0.6272805194	smoked marijuana
+0.6271174383	teens spend
+0.6269772640	black dress
+0.6262915394	staff members
+0.6261689698	category musical comedy year
+0.6258584045	drug dealer
+0.6247886824	seek treatment
+0.6243943507	federal prosecutors
+0.6238670555	health systems
+0.6238142227	signed law
+0.6233922861	visit hollywoodlifecom instagram
+0.6226919736	men women
+0.6224366760	confederate monuments
+0.6201575038	video jason h
+0.6192621976	combat opioid
+0.6191291829	job training
+0.6184708718	approval process
+0.6171666523	woman named
+0.6164792094	viewing pictures
+0.6149930436	headquarters costa mesa
+0.6147201559	sen jeff
+0.6146903348	long term
+0.6145316057	drug traffickers
+0.6126435667	student loan debt
+0.6102896147	federal governments
+0.6100473036	freeingame purchases yesavailability ios
+0.6085410816	opioid overdoses
+0.6085366294	run walk
+0.6084566016	category drama year
+0.6084494758	contributed report
+0.6080801974	told reporters
+0.6066956094	save lives
+0.6048758354	click pics star hollywoodlifecom instagram
+0.6036866226	law enforcement officials
+0.6034748558	declared opioid crisis
+0.6030527034	president rodrigo
+0.6025618871	family members
+0.5997056931	5k run walk
+0.5988237395	mental health problems
+0.5977250115	amid allegations sexual misdeeds
+0.5956473813	soundbite of
+0.5951019954	black market
+0.5950360934	marijuana policy
+0.5929599517	facebook twitter
+0.5919612948	tomatometer rating
+0.5916506571	treatment center
+0.5912949510	car companies
+0.5907569308	senate candidate roy moore
+0.5894627857	new york times
+0.5891752597	making easier
+0.5863910474	jeu vido
+0.5848771311	years prison
+0.5848412990	gov chris
+0.5847650199	catalyst domestic violence services 18008958476
+0.5829403778	drug overdoses
+0.5828830267	medical school
+0.5808665904	medical center
+0.5805133475	viewing pictures romantic partner
+0.5789718517	drug enforcement
+0.5779534644	marjory stoneman douglas high
+0.5773733263	leader nancy pelosi
+0.5772443719	announced plans
+0.5762428186	amazons synopsis
+0.5756490845	courtesy nelson family
+0.5751736278	john le carre
+0.5709490992	recent years
+0.5698674339	federal law
+0.5697136492	visit x17onlinecom
+0.5691869563	aux jeux vido
+0.5681046696	national institute drug
+0.5659508547	state sen
+0.5646811050	taking steps
+0.5645808378	multiple times
+0.5628475051	sp 500
+0.5605417517	enable javascript
+0.5599675207	les jeux vido
+0.5598429549	pain medication
+0.5598082892	raise money
+0.5584531441	drug addiction
+0.5575458907	heroin fentanyl
+0.5567497605	fell love
+0.5564527207	seeking treatment
+0.5550872102	das office
+0.5546856857	america great
+0.5538231552	heroin overdose
+0.5537779501	institute drug abuse
+0.5536814645	opioid addiction
+0.5517435813	more videos
+0.5516925728	resource center
+0.5511725152	tv shows
+0.5510609172	federal prison
+0.5509060398	this fresh air
+0.5507121411	death rate
+0.5487149879	linmanuel miranda joins hamilton cast
+0.5486050094	musical comedy
+0.5483655423	les jeux
+0.5479653496	viewing pictures romantic
+0.5478258438	world war
+0.5472088945	drug alcohol
+0.5471504809	news conference orange county das office
+0.5466906192	kicks paramount pictures studio
+0.5465078371	president george w
+0.5459198108	great american
+0.5450897087	drug court
+0.5449522729	war ii
+0.5447600636	health benefits
+0.5444418334	share story https
+0.5431808295	photo michael
+0.5431498452	new york
+0.5430295771	new york city
+0.5430196975	addiction treatment
+0.5424661218	the real housewives
+0.5422696166	government agencies
+0.5422298254	president donald
+0.5418562148	illegal drugs
+0.5372805284	man named
+0.5369670024	sign up continue reading main story
+0.5364733132	sexual misdeeds
+0.5356318952	new jersey
+0.5349449206	senate majority
+0.5347061391	purchases yesavailability ios
+0.5345991685	run fee see website date
+0.5336780983	medical care
+0.5333791675	earlier week
+0.5315005781	democrat al franken resign senate seat
+0.5311667228	national center
+0.5297407109	wednesday morning
+0.5294934486	category television series
+0.5294907078	anonymous 7 pm
+0.5294373956	kanye west kanyewest
+0.5285486135	50day moving average
+0.5283079488	purchases yesavailability
+0.5282799795	horror story
+0.5274919999	medicaid program
+0.5257925785	the washington post
+0.5254944881	cancer patients
+0.5253051596	addiction recovery
+0.5241597778	fanfavorite event attracts
+0.5239160607	saved life
+0.5232507526	recent months
+0.5215816089	http bitly 2n6vkpr
+0.5211579240	selling drugs
+0.5207172489	saturday night
+0.5206777688	angeles county
+0.5200978857	general sessions
+0.5196340811	play role
+0.5193934210	body brokers
+0.5193416108	videosbusiness insider emails alerts site highlights
+0.5189299123	los angeles times the taste featuring
+0.5185089103	fanfavorite event attracts haunt enthusiasts
+0.5168856845	health news
+0.5166957208	online fans annual scareathon experience attractions
+0.5159525075	new orleans
+0.5156139276	national institute
+0.5135305096	timess products services thank subscribing
+0.5125702957	county jail
+0.5121780558	click pics star
+0.5118239172	alcohol addiction
+0.5109079687	new hampshire
+0.5107513442	president united states
+0.5090344146	drug addict
+0.5075177811	opioids addictive painkillers
+0.5073966240	tomatoes critic score
+0.5072214047	york city
+0.5072035437	enable javascript view comments powered disqus
+0.5067979197	mental health issues
+0.5051285115	insurance program
+0.5050276779	parent company
+0.5037495145	county board
+0.5036991613	haunting season photo david sprague
+0.5035757626	blowing hole finances small towns
+0.5031483384	addictive painkillers
+0.5029247508	mental health care
+0.5020762798	amid allegations sexual
+0.5020513026	oh god
+0.5008693601	high school students
+0.4982087533	overdose death
+0.4978326952	permanent walkthrough attraction based hit amc
+0.4978294895	share story https usatly
+0.4968199315	fee see website date
+0.4957774676	father died
+0.4950383924	white men
+0.4950252434	health services
+0.4947843918	invalid email address
+0.4947763254	close friends
+0.4946874200	federal court
+0.4940692277	first lady melania trump
+0.4934499763	body brokers charged fraud exploiting drug
+0.4929148202	drug addicts
+0.4914503442	smartphone addiction
+0.4899434189	updates special offers the new york
+0.4895384577	12photos opioids addictive painkillers
+0.4890711184	angeles times
+0.4878574114	feeds specifically halloween horror nights meet
+0.4874719534	mentally ill
+0.4874192993	haunting season
+0.4868436709	new yorker
+0.4861992662	sign up you agree receive
+0.4847748342	trump declared
+0.4836570553	nights meet online fans annual scareathon
+0.4832996109	the walking dead
+0.4825825753	email address
+0.4824088478	drug users
+0.4803320654	makes sense
+0.4803157468	care providers
+0.4796201094	drug overdose deaths
+0.4793549581	recovery program
+0.4792752190	jeux vido
+0.4788388580	hours week
+0.4781154963	renowned chefs bartenders across southern california
+0.4770292996	tuesday night
+0.4766575342	around the country remove confederate monuments
+0.4763593642	walking dead
+0.4760817172	social media feeds specifically halloween horror
+0.4753496406	quality life
+0.4718294394	addicted opioids
+0.4702859719	drug prices
+0.4693857836	drug control
+0.4682624672	treatment programs
+0.4682167708	health problems
+0.4681106343	toggle caption
+0.4678182112	criminal justice system
+0.4674492645	county officials
+0.4671370615	addicted drugs
+0.4659501790	makes feel
+0.4651806314	state laws
+0.4645241609	substance abuse treatment
+0.4642824217	couple years
+0.4640868710	health effects
+0.4634237106	haunting season photo david
+0.4623606803	research shows
+0.4613799845	growing number
+0.4605157310	young children
+0.4601533144	million americans
+0.4599869724	view new york times
+0.4595636840	moving average
+0.4583318093	percent increase
+0.4578590755	young men
+0.4578188413	link copy embed code
+0.4576995196	americans died
+0.4558985766	drug epidemic
+0.4555170803	recent study
+0.4530332654	party vans global headquarters costa mesa
+0.4524402101	wall st
+0.4516335986	recent weeks
+0.4512639440	spend money
+0.4503648988	family member
+0.4478399022	young age
+0.4446679511	takes place
+0.4439722944	associated press
+0.4437425694	brewing co
+0.4430044931	television series
+0.4429171309	lost job
+0.4410733991	50day moving average currently
+0.4396277720	president george
+0.4393939358	dangerous surgeries
+0.4378031052	pictures romantic
+0.4363465498	young man
+0.4363423779	photo kevin
+0.4347294424	inbox email address joinfollow business insider
+0.4343526885	downtown los
+0.4338805120	light phone 2
+0.4331172943	report released
+0.4307330762	orange county das office santa ana
+0.4306516821	real world
+0.4305286918	click pics star hollywoodlifecom
+0.4303301273	anaheim ca the restaurant bar
+0.4283023252	enforcement officials
+0.4272788254	linkin park friends show los angeles
+0.4268809900	freeingame purchases yesavailability
+0.4266005896	domestic violence services 18008958476
+0.4243272337	medical treatment
+0.4242531142	sound the gallery resume
+0.4212038516	years earlier
+0.4211559091	date 9 june
+0.4196075356	onstage first show pantages theatre hollywood
+0.4189534851	health professionals
+0.4179011878	find njcom
+0.4176564710	skip skip x embed x share
+0.4174242238	january 26
+0.4168356174	date 830
+0.4155791062	drug companies
+0.4131018017	first lady
+0.4129046602	race day date
+0.4128517573	university students
+0.4123362381	fee 25
+0.4116957082	senate candidate
+0.4106992156	star hollywoodlifecom instagram
+0.4104009132	news conference orange county
+0.4101305847	addicts bill insurance nonfda approved drugs
+0.4089356670	healthnew jersey sues oxycontin maker says
+0.4089268686	sign free
+0.4085484817	january 2013
+0.4077928283	skip x embed x share close
+0.4072162111	task force slip case 11 defendants
+0.4050957666	numerous times
+0.4045821997	all rights reserved
+0.4016798882	wednesday sept 26
+0.4016423264	washington post photo michael s williamson
+0.4009929014	nations opioid
+0.4008190338	loved ones
+0.3988853946	drugs alcohol
+0.3979212265	social media feeds
+0.3978234026	life prison
+0.3966011502	john le
+0.3961581396	lot money
+0.3957411276	be best
+0.3936068048	full spectrum
+0.3917288176	products services thank subscribing
+0.3889468194	insider emails alerts site highlights day
+0.3882739694	friday october 27 2017 photo
+0.3875437247	de la
+0.3861625711	opened wednesday january 16 2019 photo
+0.3857912772	fee 25 30 race day date
+0.3857110557	haunt enthusiasts southern california beyond
+0.3846930606	trump campaign
+0.3844365906	family friends
+0.3839120404	charged fraud
+0.3836022366	news group
+0.3832111385	an error occurred
+0.3828597463	share story
+0.3821693988	american women
+0.3821197203	life story
+0.3818481948	drugs dangerous
+0.3812737552	friday oct 13 2017 photo ed
+0.3812244352	early days
+0.3775789226	products services
+0.3753735863	program called
+0.3744856569	prescription opioid
+0.3744751251	friends family
+0.3742202840	drug crisis
+0.3738001379	video link
+0.3734525745	court ruling
+0.3731152752	southern california beyond
+0.3723563079	american history
+0.3714242422	state budget
+0.3712639417	opioid fentanyl
+0.3710787868	race day date 9
+0.3706774152	wednesday january 16 2019 photo paul
+0.3691450285	proyecto de
+0.3681590662	family friend
+0.3675268667	health officials
+0.3666302153	inbox email
+0.3650033849	dangerous surgeries wednesday sept 26 2018
+0.3648829932	applause we
+0.3638823256	drug treatment
+0.3636706694	us food drug administration
+0.3634337296	630 pm
+0.3622895013	media platforms
+0.3619682561	per cent
+0.3609394094	state local
+0.3589817406	trump announced
+0.3587796157	agree receive
+0.3587075037	day inbox email address joinfollow business
+0.3566698883	disease control
+0.3561355972	9 pm
+0.3553284549	health issues
+0.3531131119	restaurant bar
+0.3521501398	experience attractions together numerous times throughout
+0.3513573069	october 27 2017
+0.3509588977	los angeles friday october 27 2017
+0.3480726640	state law
+0.3474254583	side effects
+0.3472534722	2017 sign free video newsletter
+0.3452547817	subscribe sign
+0.3451092507	date 9
+0.3433602196	age 26
+0.3394660331	california state
+0.3389536339	7 pm
+0.3385871455	including five doctors
+0.3385110001	brand name
+0.3378733435	730 pm
+0.3372934505	drug problem
+0.3368942475	screen time
+0.3366616348	updates special offers the
+0.3356993090	set aside
+0.3338486159	the associated press
+0.3310453332	continue reading main story
+0.3298209374	first responders
+0.3295586063	market value
+0.3292951890	president united
+0.3264366313	december 2017
+0.3252930966	three ucla basketball players
+0.3245127494	health emergency
+0.3220095039	this is us
+0.3219192214	past years
+0.3216679163	fee see website
+0.3214249174	8 pm
+0.3174734019	national public health
+0.3173069115	food drug
+0.3172422426	# evanhelpus
+0.3157861223	fight opioid
+0.3147694080	first lady melania
+0.3138030306	some fans dedicate
+0.3122808698	senate seat
+0.3117306053	oct 13
+0.3110728405	together numerous times throughout haunting season
+0.3085714067	drug policy
+0.3077485755	530 pm
+0.3071520186	please verify youre robot clicking box
+0.3066628387	big tech
+0.3062598011	behind scenes
+0.3049513728	park friends
+0.3045576075	330 wall st suite 50
+0.3027297014	addiction crisis
+0.3024683220	medical association
+0.3011736090	cnn health
+0.2995183939	530630 pm
+0.2984209035	department public
+0.2982407704	lot things
+0.2974105473	years old
+0.2945985846	nelson family
+0.2942053601	applause and
+0.2920711204	told business
+0.2905539702	wednesday january
+0.2902346318	fee 25 30 race day
+0.2863446173	whats happening
+0.2856866559	72 +
+0.2847337934	please try later view
+0.2831831105	little bit
+0.2824605907	may 28 2018me
+0.2821951166	determine whether
+0.2819478473	director national
+0.2808923363	world health
+0.2800101599	six months
+0.2787311146	1 2018 photo kevin sullivan orange
+0.2785061455	behind bars
+0.2783077964	february 2017
+0.2775697544	michael s
+0.2773617731	think tank
+0.2754567818	states including
+0.2752226339	opioid crisis public health
+0.2748249990	federal state
+0.2747741381	including five doctors two administrators four
+0.2746007638	fiscal year
+0.2726551880	lives matter
+0.2721480346	funding bill
+0.2681815039	the monkees
+0.2676475255	last month
+0.2662867329	the wall street
+0.2652092496	widely available
+0.2612216748	last week
+0.2606677785	leading cause
+0.2567028010	date 8
+0.2549524368	spending bill
+0.2520598335	havent seen
+0.2508688659	2016 election
+0.2506485600	thats right youre texas
+0.2505524249	for photos
+0.2505225909	please reenter you must select
+0.2500340812	9 11
+0.2469702880	health human
+0.2465221846	60 minutes
+0.2458681900	health system
+0.2457126769	15 trillion
+0.2438716102	june 2017
+0.2437000943	at one point
+0.2421820035	home state
+0.2409080429	64 000
+0.2395278047	american medical
+0.2393042485	april 2017
+0.2392939318	recreational use
+0.2384249957	federal drug
+0.2374670595	state federal
+0.2369706443	nine months
+0.2358486045	get rid
+0.2349378714	of course
+0.2345486993	fire department
+0.2333081442	200 billion
+0.2332189405	approved drugs
+0.2324321079	next generation
+0.2319034700	national drug
+0.2311429221	health care system
+0.2300970536	drugs including
+0.2285737544	across southern california
+0.2275465392	addiction mental
+0.2252530461	10 pm
+0.2224405366	across country
+0.2214234889	sounds like
+0.2201641120	tax bill
+0.2174559833	1 000
+0.2166883060	you agree receive
+0.2164627024	40 000
+0.2160613593	weve seen
+0.2153065313	states opioid
+0.2138110801	use disorder
+0.2134470841	state health
+0.2121243923	last year
+0.2121072258	show the walking dead
+0.2114098656	roll back
+0.2106725998	in august
+0.2105452609	trump expected
+0.2099059235	sept 26
+0.2097996240	100 000
+0.2086059953	five years
+0.2075837811	new mexico
+0.2051642905	interest rates
+0.2048729067	the new york times
+0.2045822558	us sen
+0.2040656988	left behind
+0.2030303015	13 skip skip x embed x
+0.2019777837	making sure
+0.2004386336	year ago
+0.2001305900	weve got
+0.1998025360	in january
+0.1987693991	6 pm
+0.1982009810	months later
+0.1981765003	ive never seen
+0.1973317596	substance use
+0.1965385145	thats right youre
+0.1959087174	work requirements
+0.1948953988	70 percent
+0.1948514302	no 1
+0.1939995318	youve got
+0.1931843190	second chance
+0.1918881753	first ladies
+0.1912279993	im sorry
+0.1903019078	asking congress
+0.1889588957	feels like
+0.1881642668	150 000
+0.1852512044	5 pm
+0.1842516592	30 minutes
+0.1841789834	and i
+0.1827546452	williamson said
+0.1822626507	2 000
+0.1822381505	phone call
+0.1820053674	earlier year
+0.1813488892	experts say
+0.1812776065	question whether
+0.1812250148	tonight i
+0.1810652850	move forward
+0.1786983099	game 1
+0.1782598565	according centers disease control
+0.1779753647	please try later
+0.1761263237	justice system
+0.1759771684	for instance
+0.1755822970	passed away
+0.1755568504	weeks later
+0.1743990668	20 years ago
+0.1743877710	this is
+0.1741572805	continue reading
+0.1740971562	40 percent
+0.1739593285	years later
+0.1738746440	15 minutes
+0.1736875543	january 16
+0.1736354326	homeless people
+0.1731706726	feel like
+0.1725213477	80 percent
+0.1700447463	felt like
+0.1694643838	young people
+0.1690951083	caption the
+0.1690378479	37 percent
+0.1687669059	500 000
+0.1682562564	hours day
+0.1678407827	us attorney
+0.1677660787	happens brain
+0.1675986205	comedy year
+0.1668019086	im proud
+0.1667138248	4 000
+0.1661295570	75 percent
+0.1641696151	200 000
+0.1628549846	2018 reuters
+0.1624623284	first step
+0.1619894728	month later
+0.1617081800	anyone else
+0.1610352043	critics say
+0.1606166106	5 000
+0.1596119409	24 hours
+0.1594202652	20 years
+0.1582300093	18 months
+0.1572761730	so i
+0.1547358675	spend time
+0.1544897357	the trump administration
+0.1532973368	days later
+0.1532461449	three years ago
+0.1531371621	everything else
+0.1530056983	three years
+0.1521715520	make sure
+0.1519348354	phone 2
+0.1499517833	pretty much
+0.1495776620	drug use
+0.1482531954	times likely
+0.1449109923	race day
+0.1449085057	2017 reuters
+0.1445648007	brown says
+0.1434950990	everyone else
+0.1432025723	current former
+0.1429919621	group 1
+0.1425855705	back affordable care
+0.1404843706	every single
+0.1402832353	in fact
+0.1400791439	never forget
+0.1396365053	1 500
+0.1395506101	researchers found
+0.1394086308	two years
+0.1390860176	opioid drug
+0.1389036874	us attorneys
+0.1387333751	20 minutes
+0.1382634143	us senate
+0.1377137041	story please
+0.1368253058	new technologies
+0.1367170416	around world
+0.1365600565	30 race day date
+0.1365363878	records show
+0.1349475208	i dont think
+0.1340338826	past year
+0.1339248651	the king
+0.1338460299	trying figure
+0.1338232101	2 500
+0.1336842419	study found
+0.1328835962	us citizen
+0.1326750034	officials say
+0.1322199428	the federal government
+0.1322118783	california news
+0.1320485975	four years
+0.1305858294	next door
+0.1304237515	you know
+0.1295945623	3 pm
+0.1290817849	i think
+0.1278434146	for example
+0.1276463820	coming back
+0.1275919714	27 percent
+0.1274773356	drama year
+0.1266258403	doesnt mean
+0.1235915782	at least
+0.1233330661	the times
+0.1205677794	15 years
+0.1204303542	60 percent
+0.1200859661	looked like
+0.1195049675	1 million
+0.1193505151	2 pm
+0.1191874203	three months
+0.1190029033	period time
+0.1185944394	third party
+0.1184821395	10 years
+0.1184357409	50 000
+0.1175444969	previous year
+0.1175247717	the new york
+0.1170319764	in addition
+0.1168948026	long time
+0.1168847669	national public
+0.1160789119	every day
+0.1157267340	4 pm
+0.1154349260	10 000
+0.1146945986	40 years
+0.1138385673	as result
+0.1132147685	someone else
+0.1129885345	the post
+0.1125910586	ever seen
+0.1122823841	35 percent
+0.1122807195	i dont know
+0.1121671938	spent much
+0.1112172815	do think
+0.1112054186	second season
+0.1111339105	large part
+0.1107116721	his father
+0.1101181312	20 000
+0.1094787829	30 race day
+0.1082818186	do i
+0.1079882169	new stores
+0.1079395668	continue work
+0.1073973817	must select
+0.1073025197	i guess
+0.1070272391	talk show
+0.1069545140	his mother
+0.1065172669	when i
+0.1054945276	the washington
+0.1053782573	because i
+0.1052041552	22 2017
+0.1050069823	hard work
+0.1046274178	1 billion
+0.1044150378	feel good
+0.1042749136	seven years
+0.1040399487	police say
+0.1038146018	looks like
+0.1036350528	25 30
+0.1034729220	lot people
+0.1034404604	dont want
+0.1031133507	1 pm
+0.1027817751	at point
+0.1017247675	but im
+0.1015414897	look forward
+0.1015317763	eight years
+0.1013652708	first season
+0.1012354082	ive got
+0.1005126933	ive seen
+0.1003848657	things like
+0.1003567440	3 000
+0.1002580185	opening new
+0.0998269067	000 employees
+0.0991035017	opioid use
+0.0989597692	less likely
+0.0987390058	2016 presidential
+0.0985537851	several times
+0.0981547374	gave us
+0.0981355523	2018 photo
+0.0981096374	places like
+0.0979556719	50 percent
+0.0963165877	even though
+0.0957924465	new years
+0.0957107281	doesnt matter
+0.0956380037	loved one
+0.0953077217	didnt want
+0.0941560698	something else
+0.0940377077	one step
+0.0939408762	2017 photo
+0.0934670654	american people
+0.0929183339	2 billion
+0.0923837520	three times
+0.0921017377	times day
+0.0914947883	two decades
+0.0914498644	27 2017
+0.0914467919	11 000
+0.0910187750	six years
+0.0902680765	dont know
+0.0900681396	spent time
+0.0899154161	doesnt seem
+0.0896694164	that means
+0.0896507015	us department
+0.0889050510	announced new
+0.0886978314	i remember
+0.0875490373	10 minutes
+0.0874292487	cause death
+0.0868781746	10 percent
+0.0868008804	30 000
+0.0862032010	25 percent
+0.0859230132	100 times
+0.0851035405	several months
+0.0847654100	prosecutors said
+0.0839064519	amount money
+0.0838835906	two weeks
+0.0838692454	9 june
+0.0835305047	three decades
+0.0834195488	three days
+0.0832225192	long way
+0.0831573156	next month
+0.0828068823	is us
+0.0825186828	20 percent
+0.0823281375	lot time
+0.0819115936	you cant
+0.0819095633	you need
+0.0816360359	i mean
+0.0815243009	the actress
+0.0812612253	across southern
+0.0809692722	ive ever
+0.0806565347	first time
+0.0805435094	found dead
+0.0803061198	i grateful
+0.0801017592	top 10
+0.0798955308	the associated
+0.0798485666	become addicted
+0.0798100655	take care
+0.0796057635	i thought
+0.0793605629	never heard
+0.0791904748	whole thing
+0.0790247525	last years
+0.0790234587	create new
+0.0788439161	among young
+0.0785753019	used treat
+0.0785045270	report says
+0.0784543945	wanted get
+0.0774656111	nearly half
+0.0773564526	three weeks
+0.0773449773	im going
+0.0770969782	i feel like
+0.0769122469	five hours
+0.0767418132	last couple
+0.0764791315	critics said
+0.0764296987	knew i
+0.0763570881	five months
+0.0759608689	new generation
+0.0758294309	100 percent
+0.0754521147	didnt know
+0.0753949390	5 percent
+0.0752707301	took place
+0.0752043436	no one
+0.0750895283	several years
+0.0749054414	i met
+0.0739272040	without college
+0.0737121472	may reached
+0.0736900111	you must
+0.0736536846	youll find
+0.0733909671	much higher
+0.0733830530	five children
+0.0729440749	thank much
+0.0729276523	take action
+0.0727930718	last fall
+0.0727761661	i dont want
+0.0725709290	officials said
+0.0725081586	i knew
+0.0723709934	last decade
+0.0722731645	enough money
+0.0721741104	authorities said
+0.0716795524	25 years
+0.0716768680	five days
+0.0715549841	50 years
+0.0713324164	million people
+0.0712633371	i felt
+0.0712206240	least 20
+0.0708302596	15 million
+0.0706749320	11 years
+0.0706740586	3 percent
+0.0706519399	i realized
+0.0706498764	two months
+0.0703387007	right thing
+0.0703018956	i love
+0.0697929305	2 million
+0.0696453205	20 million
+0.0692498427	next year
+0.0687658446	theres reason
+0.0684567160	3 000 people
+0.0683988789	addiction among
+0.0683986462	two hours
+0.0683289200	6 2017
+0.0680612777	one thing
+0.0680295553	best friend
+0.0679861823	trump said
+0.0679180359	19 years
+0.0677857084	50 million
+0.0675473211	30 percent
+0.0674695987	released last
+0.0674456516	30 days
+0.0674366795	need know
+0.0672480191	the daily
+0.0671924655	three hours
+0.0670005678	30 years
+0.0665824387	dont feel
+0.0663509278	what happens
+0.0661380957	the results
+0.0654305622	50 states
+0.0651471857	all right
+0.0650615179	good idea
+0.0650157540	really important
+0.0649818869	four children
+0.0648600399	000 americans
+0.0646904889	12 years
+0.0644617432	last summer
+0.0644133446	a better
+0.0643690629	next week
+0.0643559263	a lot
+0.0637298626	us citizens
+0.0636690136	maker says
+0.0629078120	im seeing
+0.0622311858	several states
+0.0621927637	said statement
+0.0620245168	15 percent
+0.0618498138	i wanted
+0.0617913438	thought would
+0.0613304329	black people
+0.0612485744	youre going
+0.0607096475	four times
+0.0606949377	i couldnt
+0.0604447707	10 million
+0.0602265837	like you know
+0.0601550014	real time
+0.0596420365	said adding
+0.0591483637	two men
+0.0586698875	according court
+0.0586674076	us government
+0.0586610115	many ways
+0.0584578079	made clear
+0.0583692080	people died
+0.0581232927	every week
+0.0580794793	products like
+0.0578633724	times throughout
+0.0577403652	were going
+0.0576833217	the real
+0.0575909464	in 2014
+0.0571546984	new jobs
+0.0571068419	3 million
+0.0570157590	season one
+0.0570148266	care system
+0.0569591999	per year
+0.0569401856	came home
+0.0566759084	theyve got
+0.0565937570	according report
+0.0565186665	many cases
+0.0563641179	much money
+0.0562291483	i dont
+0.0561083216	part brain
+0.0560307845	many years
+0.0559280919	the problem
+0.0557658946	best friends
+0.0556861411	want talk
+0.0555786251	new film
+0.0555296864	ive always
+0.0553231177	didnt ask
+0.0552570877	report said
+0.0550370383	using drugs
+0.0549210311	if youre
+0.0549117511	whats going
+0.0547682916	never seen
+0.0546196965	the model
+0.0545323037	one hour
+0.0542512137	according recent
+0.0541324676	dont care
+0.0540097085	work hard
+0.0539031713	and i think
+0.0538198869	good news
+0.0533711394	im sure
+0.0530394353	dont think
+0.0529151667	make money
+0.0527940923	drugs like
+0.0525431962	go back
+0.0525366108	new book
+0.0524526014	took office
+0.0523048745	around country
+0.0522799564	one largest
+0.0522301275	least four
+0.0521954389	bill insurance
+0.0518719772	theres lot
+0.0516913507	i kid
+0.0513488243	across state
+0.0512126951	new features
+0.0511989476	number people
+0.0511556796	in 2015
+0.0508831514	dont need
+0.0504971302	per day
+0.0502695205	thing i
+0.0501740234	first thing
+0.0499690714	first 72
+0.0498615591	theres nothing
+0.0496236696	in case
+0.0494447013	two days
+0.0490779264	far less
+0.0488506137	1 2018
+0.0481100141	youre looking
+0.0478521428	in 2013
+0.0475157475	made point
+0.0471561208	let go
+0.0470729192	ive never
+0.0469381704	amount time
+0.0468852496	i started
+0.0465766916	time spent
+0.0465616164	come together
+0.0457408698	years since
+0.0457342209	next day
+0.0456101708	one nations
+0.0455978573	came back
+0.0455738152	doesnt want
+0.0454734462	four five
+0.0447952187	many times
+0.0445333774	like oh
+0.0444713977	many americans
+0.0443829381	she told
+0.0443194204	im trying
+0.0442662101	one biggest
+0.0440887788	couldnt get
+0.0440782157	seem like
+0.0433144927	i decided
+0.0432956325	first place
+0.0432304651	dont let
+0.0431000232	many states
+0.0429975237	later told
+0.0427811906	book the
+0.0427282186	one woman
+0.0425538187	made feel
+0.0424991846	almost always
+0.0424539501	make feel
+0.0423778352	so far
+0.0423574965	hes got
+0.0423534161	in 2016
+0.0420945265	come home
+0.0418218311	it wasnt
+0.0417957613	i think thats
+0.0417597979	work together
+0.0417531545	may 28
+0.0414436236	come back
+0.0414420860	one person
+0.0411437316	i loved
+0.0410758367	at time
+0.0410221633	the reality
+0.0409611931	former president
+0.0403562128	ago i
+0.0401689207	new study
+0.0401298241	people killed
+0.0396837392	get job
+0.0395568633	seems like
+0.0395140218	two children
+0.0394674116	a recent
+0.0393568355	said dr
+0.0390367062	if dont
+0.0387867894	if theres
+0.0382166013	nearly every
+0.0378503517	would allow
+0.0376518162	i heard
+0.0374785998	the majority
+0.0372376740	ever since
+0.0370559027	one point
+0.0370265903	trying get
+0.0369100995	among others
+0.0364360794	also known
+0.0363783483	find way
+0.0363016397	by time
+0.0360437718	would cost
+0.0355888858	ill get
+0.0351880171	three four
+0.0350037934	really want
+0.0348252931	she says
+0.0347121549	the company
+0.0344730983	i didnt
+0.0342807288	theres little
+0.0341269830	look like
+0.0340639207	theyre going
+0.0338427945	said interview
+0.0337235537	said hed
+0.0336048758	i understand
+0.0335680384	work done
+0.0335677716	i got
+0.0335664681	said monday
+0.0335175623	i feel
+0.0332442768	first third
+0.0331374262	the result
+0.0329993273	one hand
+0.0326880171	last name
+0.0325965627	according state
+0.0324313791	let us
+0.0323710514	many people
+0.0320799082	you dont
+0.0320459464	went back
+0.0319762113	id like
+0.0315922007	people addicted
+0.0315847446	one month
+0.0315700882	trying make
+0.0312104341	seemed like
+0.0311986191	i want
+0.0310334151	we need
+0.0309248050	i think one
+0.0308710281	didnt get
+0.0308698997	never really
+0.0308528596	they want
+0.0305751372	said thursday
+0.0305312406	we want
+0.0305102685	became first
+0.0302943495	people play
+0.0302914758	the restaurant
+0.0302158056	if want
+0.0301607468	didnt think
+0.0301223102	think theres
+0.0300338582	doesnt know
+0.0299612168	i think i
+0.0299084151	best way
+0.0298090553	said wednesday
+0.0297554040	much better
+0.0297397178	many others
+0.0297051354	one day
+0.0296371255	i hope
+0.0294239287	i saw
+0.0293469899	and thats
+0.0292843332	thats right
+0.0284684125	go away
+0.0284124595	something like
+0.0280048203	we dont
+0.0278027725	and course
+0.0274831707	there many
+0.0273487482	every year
+0.0269856269	it doesnt
+0.0268616958	doesnt make
+0.0267557693	said email
+0.0267201573	two three
+0.0266058321	going take
+0.0260552608	dont get
+0.0260121579	i know
+0.0258962798	got back
+0.0256510108	i tried
+0.0247553676	dont really
+0.0244869630	really really
+0.0243216957	going back
+0.0242170406	least one
+0.0238922220	much less
+0.0238168836	said were
+0.0235285759	look back
+0.0233216957	this year
+0.0231865043	000 people
+0.0228338670	didnt go
+0.0224118634	says hes
+0.0218469899	first year
+0.0209448096	he also
+0.0209107726	get back
+0.0207902672	every time
+0.0203305181	and yet
+0.0199838444	cant get
+0.0188843900	want make
+0.0186859827	some people
+0.0146978274	something new
