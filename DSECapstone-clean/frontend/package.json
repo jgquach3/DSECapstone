@@ -23,7 +23,7 @@
     "date-fns": "^2.0.0-beta.5",
     "jquery": "^3.4.1",
     "leaflet": "^1.6.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "material-ui": "^1.0.0-beta.47",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
