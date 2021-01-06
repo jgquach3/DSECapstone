@@ -15,7 +15,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/pickers": "^3.2.10",
     "@mobiscroll/react-lite": "^4.10.2",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "babel-loader": "^8.0.6",
     "babel-preset-react": "^6.24.1",
     "babelify": "^10.0.0",
